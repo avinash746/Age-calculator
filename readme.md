@@ -10,4 +10,6 @@ This project is build using Javascript, When user selects his date of birth then
 
 ## 📷 Screenshots
 
+![image](https://github.com/user-attachments/assets/5f9a1cc6-c01a-45b8-8271-139a935c3417)
+
 
